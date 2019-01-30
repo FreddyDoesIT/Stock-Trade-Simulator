@@ -49,5 +49,5 @@ For this project I have appiled:
 [Frederick Lyu](https://freddydoesit.github.io/freddy/)
 
 ## Selected Screenshot
-![screenshot]()
+![screenshot](stock.gif)
 
