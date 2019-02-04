@@ -40,8 +40,16 @@ For this project I have appiled:
 * Navigate to [here](https://github.com/FreddyDoesIT/How-to-Invest-for-Dummies-Stock-Trade-Simulator), down load the stock-trade-simulator.jar file. 
 * Locate it in your local machine. 
 * Then open the terminal.For Mac user, you can press control + space to open it. Type in terminal, and the window should pop up now.
-* Navigate to the jar file place. Enter cd + address to change directory.
-* When locating the jar file, copy ++java - jar stock-trade-simulator.jar++ to the terminal, and press enter.
+* Navigate to the jar file place. Enter 
+```
+cd address 
+```
+to change directory.
+* When locating the jar file, copy 
+```
+java - jar stock-trade-simulator.jar
+``` 
+to the terminal, and press enter.
 * Run the application as the prompt information show.
 
 
